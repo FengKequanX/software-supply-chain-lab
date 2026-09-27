@@ -1,0 +1,19 @@
+{
+  "name": "software-supply-chain-lab",
+  "version": "1.0.0",
+  "description": "亲手练习 GitHub 开发、发布与软件供应链安全的仓库。",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FengKequanX/software-supply-chain-lab.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/FengKequanX/software-supply-chain-lab/issues"
+  },
+  "homepage": "https://github.com/FengKequanX/software-supply-chain-lab#readme"
+}
